@@ -1,7 +1,9 @@
-''' Solution to problem found at:
-    https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem
-    Counts notifications a user would recieve when their spending goes above
-    twice the median of a specified previous numbers of days.'''
+''' 
+Solution to problem found at:
+https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem
+Counts notifications a user would recieve when their spending goes above
+twice the median of a specified previous numbers of days.
+'''
 
 #packages used
 from bisect import insort
